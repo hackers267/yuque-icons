@@ -9,4 +9,4 @@
 |     名字     |   名字   |  名字   |  名字  | 名字  |
 |:----------:|:------:|:-----:|:----:|:---:|
 |   eslint   | docker | nginx | node | npm |
-| powershell |  git   |||
+| powershell |  git   | idea  ||
