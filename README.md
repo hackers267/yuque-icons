@@ -10,4 +10,4 @@
 |:----------:|:---------:|:-----:|:--------:|:--------:|
 |   eslint   |  docker   | nginx |   node   |   npm    |
 | powershell |    git    | idea  | markdown | database |
-|   mysql    | sqlServer | rust  |
+|   mysql    | sqlServer | rust  |  gitlab  |   rxjs   |
