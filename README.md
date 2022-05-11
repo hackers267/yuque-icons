@@ -11,4 +11,5 @@
 |   eslint   |  docker   | nginx  |   node   |   npm    |
 | powershell |    git    |  idea  | markdown | database |
 |   mysql    | sqlServer |  rust  |  gitlab  |   rxjs   |
-|   excel    |   tool    | diesel |
+|   excel    |   tool    | diesel |  rocket  |  ranger  |
+|  question  |   shell   |
