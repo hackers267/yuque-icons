@@ -12,4 +12,4 @@
 | powershell |    git    |  idea  | markdown | database |
 |   mysql    | sqlServer |  rust  |  gitlab  |   rxjs   |
 |   excel    |   tool    | diesel |  rocket  |  ranger  |
-|  question  |   shell   |
+|  question  |   shell   |  mutt  |
