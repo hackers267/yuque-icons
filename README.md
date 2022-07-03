@@ -6,10 +6,13 @@
 
 ## 现有图标
 
-|     名字     |    名字     |   名字   |    名字    |    名字    |
-|:----------:|:---------:|:------:|:--------:|:--------:|
-|   eslint   |  docker   | nginx  |   node   |   npm    |
-| powershell |    git    |  idea  | markdown | database |
-|   mysql    | sqlServer |  rust  |  gitlab  |   rxjs   |
-|   excel    |   tool    | diesel |  rocket  |  ranger  |
-|  question  |   shell   |  mutt  |
+|      名字       |    名字     |     名字     |    名字    |    名字    |
+|:-------------:|:---------:|:----------:|:--------:|:--------:|
+|    Eslint     |  Docker   |   Nginx    |   Node   |   Npm    |
+|  Powershell   |    Git    |    Idea    | Markdown | Database |
+|     Mysql     | SqlServer |    Rust    |  Gitlab  |   Rxjs   |
+|     Excel     |   Tool    |   Diesel   |  Rocket  |  Ranger  |
+|   Question    |   Shell   |    Mutt    |  Apifox  |  Pandas  |
+| Asyncfunction |  Python   | Python-lib |  React   | Rescript |
+|     Rime      |  SeaOrm   |    Sqlx    |  Svelte  |   Vite   | 
+|     Yuque     |
