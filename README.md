@@ -6,13 +6,16 @@
 
 ## 现有图标
 
-|      名字       |    名字     |     名字     |    名字    |    名字    |
-|:-------------:|:---------:|:----------:|:--------:|:--------:|
-|    Eslint     |  Docker   |   Nginx    |   Node   |   Npm    |
-|  Powershell   |    Git    |    Idea    | Markdown | Database |
-|     Mysql     | SqlServer |    Rust    |  Gitlab  |   Rxjs   |
-|     Excel     |   Tool    |   Diesel   |  Rocket  |  Ranger  |
-|   Question    |   Shell   |    Mutt    |  Apifox  |  Pandas  |
-| Asyncfunction |  Python   | Python-lib |  React   | Rescript |
-|     Rime      |  SeaOrm   |    Sqlx    |  Svelte  |   Vite   | 
-|     Yuque     |
+|      名字       |     名字     |     名字     |    名字    |    名字    |
+|:-------------:|:----------:|:----------:|:--------:|:--------:|
+|    Eslint     |   Docker   |   Nginx    |   Node   |   Npm    |
+|  Powershell   |    Git     |    Idea    | Markdown | Database |
+|     Mysql     | SqlServer  |    Rust    |  Gitlab  |   Rxjs   |
+|     Excel     |    Tool    |   Diesel   |  Rocket  |  Ranger  |
+|   Question    |   Shell    |    Mutt    |  Apifox  |  Pandas  |
+| Asyncfunction |   Python   | Python-lib |  React   | Rescript |
+|     Rime      |   SeaOrm   |    Sqlx    |  Svelte  |   Vite   | 
+|     Yuque     |    Hook    |    antv    |  cargo   |  chrono  |
+|   date-fns    |    kde     |   log4rs   | minikube |  mockjs  |
+|  nginx-icon   | playwright |    pnpm    |   tmux   |   umi    |
+|  webassembly  | 
